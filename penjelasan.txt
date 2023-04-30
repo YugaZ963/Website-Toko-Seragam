@@ -1,3 +1,5 @@
 ini adalah projek kecil saya membuat website toko
 saya baru membuat tampilan interface website
-rencananya saya mau menambahkan tampilan barang yang di jual
+rencananya 
+- saya mau menambahkan tampilan barang yang di jual
+- membuat bio dari toko seragamnya
